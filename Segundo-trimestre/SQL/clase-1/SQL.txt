@@ -1,0 +1,63 @@
+TALLER DE VARIABLES
+
+1 	restar 2 números
+--select subtract(10,5) as resultado;
+
+
+2	si la suma de los 2 es mayos a 25 multiplicar 	los 2 números de lo contrario dividir
+--
+
+3	CREAR UN EJERCICIO QUE PERMITA CALCULAR EL 	PROMEDIO DE 3 NÚMEROS
+
+4	CALCULAR EL 10% DE LAS VENTAS SI ES MAYOR DE 		1.000.000 DE LO 
+	CONTRARIO EL 2%
+
+5	CALCULAR EL AREA DE UN CUADRADO CUYOS LADO ES 20 	CM
+	
+6	CALCULAR EL AUXILIO DE TRANSPORTE PARA UN 	EMPLEADO QUE LE PAGAN 
+	MENSUALMENTE  CUYO SALARIO BASICO SON 1.000.000  
+
+7	Imprimir los numeros del 1 al 10
+
+
+
+8	imprmir los numeros de la tabla del 2 hasta el 	40
+
+9	calcular el area de un triangulo cuya altura 		son 
+	45cm y cuya base son 30 cm
+
+10	calcular el promedio de 4 notas de un alumno
+
+11	calcular el promedio general de notas teniendo 	encuenta que el grupo tiene 2 alumnos	y cada 	alumno tiene 2 notas
+
+
+
+Empleados
+Código
+Nombre
+Peso
+Año nacimiento
+altura
+101
+Carlos
+80kilos
+1983
+1,90
+102
+María
+60 kilos
+1981
+1,70
+
+
+
+12	realizar un algoritmo que me indique el índice 	de masa corporal  (IMC) e imprimir el resultado 	con  respecto a los datos siguientes:
+	
+bajo peso---- 18,5 
+normal------- 18,5 a 24,9 
+pre obesidad- 25 a 29,9--- de 1 a 10 kilos de mas 
+obesidad 1--- 30 a 34,9--- 10 a 20kilos de mas 
+obesidad 2--- 35 a 39,9--- de 20 a 30kilos de mas 
+obesidad 3--- +40 --------- desde 30 kilos de mas
+
+Nota: utilizar la tabla empleados para realizar el algoritmo 12
